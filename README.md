@@ -13,7 +13,7 @@ Esta é uma calculadora responsiva desenvolvida com HTML, CSS e JavaScript.
 
 ## Pré-requisitos
 
-Não há pré-requisitos específicos para utilizar este gerador de senha.
+Não há pré-requisitos específicos para utilizar.
 
 ## Contribuindo
 
